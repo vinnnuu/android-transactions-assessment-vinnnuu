@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_default">#091C35</color>
+    <color name="text_support">#3A495D</color>
+    <color name="success">#0F8540</color>
+    <color name="seperator">#E9EAEB</color>
+    <color name="foundation">#F3F6F9</color>
+    <color name="app_bar_color">#295EFF</color>
+    <color name="card_color">#FFFFFF</color>
+</resources>
